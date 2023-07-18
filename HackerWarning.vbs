@@ -1,0 +1,1 @@
+x=msgbox("A hacker is trying to access protected files. Please take actons.",0+48,"Anti-Hacker System")
